@@ -1,0 +1,23 @@
+- layout: top-middle
+  name: Solution Design
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    Working with clients to attempt to map their application and infrastructure needs to SSC services.
+  description: | # this will include new lines to allow paragraphs
+    When a project or initiative is identified as complex and in need of an integrated solution the request is send to SISD for conceptual and detailed design.
+
+    Conceptual Designs consist of the identification of the SSC services that should be assembled into the final solution, along with any application or functional requirements that generate a service gap that will need to be explored to meet the client needs.  As a Senior Advisor in SISD my main focus is working with the clients and SISD team to discover client requirements, map services, quantify gaps and eventually design and document a solution.
+
+- layout: top-middle
+  name: Server Administration (Linux and Windows)
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    I grew up in IT while administering Windows, Unix and Linux Servers.
+  description: | # this will include new lines to allow paragraphs
+    I am more comfortable in front of a terminal or powershell prompt than in a GUI. While my Operations days are in the past, my passion for learning, technology and tinkering always helps to keep my skills current in the evolving field of server administration. 
+
+    Experienced with shell and powershell scripting, and day-to-day advanced operational troubleshooting and administration.
+
+

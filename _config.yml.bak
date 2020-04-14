@@ -1,0 +1,61 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Rich Tremblay
+title: Senior Advisor
+email: richard.tremblay@canada.ca
+website: www.github.com/tremblr
+
+# Social links
+twitter_username: richtremblay
+github_username:  tremblr
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+#linkedin_username: jameswgrant
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+# about_profile_image: images/avatar.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Rich Tremblay.  I am a IT proffessional, with a background in security and server administration who has been spending my time creating integrated solutions for SSC and clients.
+  
+  I have passion for teamwork and exploring new technologies.  I have an extensive background in <mark>SSC Service Offerings</mark>, <mark>GC design patterns</mark> , and <mark>GoC security processes and principles</mark>.
+  
+  My current goal is to expland my skillset and explore <mark>cloud technologies</mark>, <mark>automation</mark> and modern delivery methodologies like <mark>DevSecOps</mark>.
+
+# Projects Section
+projects_title: Skills
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in IT, some of my other interests and hobbies are:
+   - Spending time with my family
+   - Analog Gaming (Boardgames)
+   - Movies
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

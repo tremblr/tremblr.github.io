@@ -1,0 +1,102 @@
+- layout: left
+  company: SSC
+  #link: boringcompany.com
+  job_title: Senior Advisor
+  dates: Aug 2018 - present
+  quote: >
+   Senior resource working on design and implementation activities for internal SSC BRs and major projects for implementation in legacy and End-State SSC data centre environments
+  description: | # this will include new lines to allow paragraphs
+    As the conceptual design group for many of the SSC business requests, I worked with multi-disciplinary teams including all SSC Service Lines to develop IM/IT solutions to meet business needs for many new business requests
+    
+    As part of my design role I produced technical infrastructure solution documents in the form of High-Level Designs (HLD), Preliminary Design Documents (PDD), Workload Intake Forms (WIF).
+    
+    Represented SISD in a number of large project working groups including the Phoenix Program, and the Digital Communications and Collaboration project.
+    
+    Design and participate in the implementation and monitoring of service and data centre transformation projects and participate on a number of DC closure projects.
+- layout: left
+  company: SSC
+  #link: boringcompany.com
+  job_title: Technical Advisor
+  dates: Dec 2017 - July 2018
+  quote: >
+   Team B-2 technical lead on the strategy and tooling to support the roll out of Windows Server 2016.
+  description: | # this will include new lines to allow paragraphs
+    Developed and authored the GOP technical scripts and implementation guide for the standard Windows Server 2016 image.
+    
+    Review and comment on solutions and requests sent for implementation by partners and design teams
+    
+    Participated as the Team B-2 representative in the Windows Team B Technical Working Group in order to review, discuss Windows transformation projects and horizontal initiatives (such as SSCM enterprise roll-out for patching and reporting, Specter/Meltdown remediation, standard Windows Server 2016 image development and the Windows Server 2008 replacement project).
+    
+    Monitored the implementation and readiness of these horizontal transformation projects and reported progress for the Team B dashboards.
+- layout: left
+  company: SSC
+  #link: boringcompany.com
+  job_title: Technical Advisor/Acting Senior Advisor
+  dates: July 2014 - Dec 2017
+  quote: >
+   Senior resource working on design and implementation activities for legacy and End-State SSC data centre environments
+  description: | # this will include new lines to allow paragraphs
+    As the conceptual design group for many of the SSC business requests, I worked with multi-disciplinary teams including all SSC Service Lines to develop IM/IT solutions to meet business needs for many new business requests (internal SSC and Partner) as well as many transformation projects moving applications from legacy to end-state.
+   
+    As part of my design role I produced technical infrastructure solution documents in the form of High-Level Designs (HLD), Preliminary Design Documents (PDD), and Workload Intake Forms (WIF). As part of the SISD role I also reviewed and contributed to service Detailed Design Specifications (DDS).
+   
+    Represented SISD in a number of large project working groups including Pension Modernization (PenMod), PayMod/Phoenix and GCDOCS as well as representing the Solution Integrators in a number of business process working groups such as the WIF Update and Automated ECD process working group.
+   
+    Designed, participated in the implementation and monitored service and data centre transformation projects including Phoenix DR project, Enterprise GCDOCs, and Enterprise Mobile Device Management (EMDM). Participated as part of the SISD team working on a number of DC closure projects including the Borden Relocation project.
+- layout: left
+  company: SSC
+  #link: boringcompany.com
+  job_title: Solution Designer / Team Lead
+  dates: Sept 2012 to July 2014
+  quote: >
+   Designed solutions and performed integration and deployment into the "ITSSO" data centres (APDC/KEDC/SSDC)
+  description: | # this will include new lines to allow paragraphs
+    As the "lead design" group for many of the ITSSO business requests, I worked with multi-disciplinary teams (MidRange Engineering, MidRange Operations, Firewall and Networking and Partner) to develop IM/IT solutions to meet business needs for many high-profile projects including but not limited to: Marine Security Operations Centres (MSOC), Canada Site, PenMod, PayMod/Phoenix and GCDOCs.
+    
+    For each solution, I produced one or more technical infrastructure solution documents in the form of a MidRange Solution Document used to both describe the detailed solution including all leveraged SSC services, act as the implementation guide for MidRange Engineering and as a guide for the costing of the Business Request
+    
+    Represented the Solution Design team in a number of large project working groups including Pension Modernization (PenMod), PayMod/Phoenix and GCDOCS.
+    
+    Designed, participated in the implementation and monitored service and data centre transformation projects, including the Phoenix project, the repatriation of the SIMSI application from a third-party vendor into a GC data centre, the establishment of an enterprise GCDocs service (and migration from legacy solutions) and the ESDC Canada.ca outsource transformation.
+- layout: left
+  company: PWGSC
+  #link: boringcompany.com
+  job_title: ICM PKI Operations Team Lead
+  dates: March 2010 to Sept 2012
+  quote: >
+   Team leader of the team responsible for support and deployments for the the pre-production Staging environment, Client Acceptance Test Environment (CATE), and full third level support of Production and DR for the GoC PKI.
+  description: | # this will include new lines to allow paragraphs
+    Work tasking, senior escalation point along with actively supporting PKI infrastructure 24/7 in 3 PWGSC data centers (APDC, KEDC and MCDC).
+
+    Preparing and reviewing multiple technical infrastructure solution documents in the standard TOD (Technical Overview Documents) format to document solutions for several key operational foundational services including central logging, and custom PKI monitoring
+- layout: left
+  company: PWGSC
+  #link: boringcompany.com
+  job_title: CCN Operations and Engineering Team lead
+  dates: March 2007 to March 2010
+  quote: >
+   Worked with a multi-disciplinary, multi-department team to develop Secret IM/IT solutions to meet customer business needs
+  description: | # this will include new lines to allow paragraphs
+    Maintained, designed and deployed servers, network infrastructure, type-1 cryptographic equipment and services within several custom-built and existing IT Security environments in several different GoC Secret Enclaves and data centres.
+
+    Prepared multiple technical infrastructure solution documents including high level architectures, security compliance test procedures, operational procedures and a variety of technical evidence for the SA&A process of the environment.
+
+    Represented the PWGSC CCN Operations team on a number of facility tours, business engagement working groups and multi-departmental working groups in the classified space.
+- layout: left
+  company: PWGSC
+  #link: boringcompany.com
+  job_title: Junior Technical Specialist
+  dates: May 2002 to March 2003
+  quote: >
+   Public Key Infrastructure (PKI) release testing, quality assurance and operational support
+  description: | # this will include new lines to allow paragraphs
+    Maintained, designed, tested and deployed servers and services for the PKI environments in the APDC, KEDC and MCDC datacentres.
+- layout: left
+  company: Canadian Heritage (PCH)
+  #link: boringcompany.com
+  job_title: Informatics Support Officer
+  dates: Sept 2000 to May 2002
+  quote: >
+   Desktop and server support for Financial Systems 
+  description: | # this will include new lines to allow paragraphs
+    Provide hardware and software support for over 100 Windows 9x/2000 desktops and 6 Windows 2000 servers.
