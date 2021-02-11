@@ -6,11 +6,11 @@ favicon: images/favicon.ico
 name: Rich Tremblay
 title: Senior Advisor
 email: richard.tremblay@canada.ca
-website: tremblr.github.io
+#website: tremblr.github.io
 
 # Social links
 #twitter_username: richtremblay
-github_username:  tremblr
+#github_username:  tremblr
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I have passion for teamwork and exploring new technologies.  I have an extensive background in <mark>SSC Service Offerings</mark>, <mark>GC design patterns</mark> , and <mark>GoC security processes and principles</mark>.
   
-  My current goal is to expand my skill-set and explore <mark>cloud technologies</mark>, <mark>automation</mark> and modern delivery methodologies like <mark>DevSecOps</mark>.
+  My current goal is to expand my skill-set and explore Enterprise Architecture, cloud technologies, automation and modern delivery methodologies like DevSecOps.
 
 # Projects Section
 projects_title: Skills
