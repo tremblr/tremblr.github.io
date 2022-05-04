@@ -1,13 +1,17 @@
 - layout: top-middle
-  name: Solution Design
+  name: Solution Architecture
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
     Working with clients to attempt to map their application and infrastructure needs to SSC services.
   description: | # this will include new lines to allow paragraphs
-    When a project or initiative is identified as complex and in need of an integrated solution the request is send to SISD for conceptual and detailed design.
-
-    Conceptual Designs consist of the identification of the SSC services that should be assembled into the final solution, along with any application or functional requirements that generate a service gap that will need to be explored to meet the client needs.  As a Senior Advisor in SISD my main focus is working with the clients and SISD team to discover client requirements, map services, quantify gaps and eventually design and document a solution. I am currently working with Enterprise Archicture (EA) team to explore transition to SISD deliverables into the SISD EA tool using the Archimate design language.
+    When a project or initiative is identified as complex and in need of an integrated solution the request is sent to SISD for conceptual and detailed design.
+    
+    The Solution Architecture disipline involves a deep knowledge of SSC services, IT/Cyber Security and Netowrk solutions.
+    
+    The role involves direct interaction with Account Executive teams, client techncial leads and business owners.
+    
+    Conceptual Designs consist of the identification of the SSC services that should be assembled into the final solution, along with any application or functional requirements that generate a service gap that will need to be explored to meet the client needs.  As a Senior Advisor in SISD my main focus is working with the clients and SISD team to discover client requirements, map services, quantify gaps and eventually design and document a solution. I am currently working with Enterprise Archicture (EA) team to explore process improvement and a transition to SISD deliverables into the SISD EA tool using the Archimate design language.
 
 - layout: top-middle
   name: Server Administration (Linux and Windows)
