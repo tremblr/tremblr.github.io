@@ -1,15 +1,25 @@
 - layout: top-middle
+  name: Product Management
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    Product management in IT involves overseeing the entire lifecycle of a software product or digital service, from conception to launch and beyond. It requires balancing technical feasibility, business viability, and user needs to create successful products that meet market demands and drive organizational goals.
+  description: | # this will include new lines to allow paragraphs
+    The Product Management disciple requires a client focus, deep techincal experience and strong leadership and inter-personal skills.
+- layout: top-middle
+  name: Cloud Platform Engineering
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    Cloud platform engineering is the practice of designing, building, and maintaining scalable and reliable infrastructure and services in cloud environments.
+  description: | # this will include new lines to allow paragraphs
+    This encompasses a wide range of skills including automation, containerization, serverless computing, and DevOps methodologies to create efficient, cost-effective, and secure cloud-based solutions for organizations.  A strong knowledge of GC security policy and guidance for cloud is required to build compliant and secure platforms.
+- layout: top-middle
   name: Solution Architecture
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
     Working with clients to attempt to map their application and infrastructure needs to SSC services.
   description: | # this will include new lines to allow paragraphs
-    When a project or initiative is identified as complex and in need of an integrated solution the request is sent to SISD for conceptual and detailed design.
-    
     The Solution Architecture discipline involves a deep knowledge of SSC services, IT/Cyber Security and Network solutions.
-    
-    The role involves direct interaction with Account Executive teams, client techncial leads and business owners.
-    
-    Conceptual Designs consist of the identification of the SSC services that should be assembled into the final solution, along with any application or functional requirements that generate a service gap that will need to be explored to meet the client needs.  As a Senior Advisor in SISD my main focus is working with the clients and SISD team to discover client requirements, map services, quantify gaps and eventually design and document a solution. I am currently working with the Enterprise Architecture (EA) team to explore process improvement and a transition to SISD deliverables into the SISD EA tool using the Archimate design language.
-
+  
