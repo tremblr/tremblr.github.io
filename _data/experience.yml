@@ -1,5 +1,17 @@
 - layout: left
   company: SSC
+  job_title: Senior Advisor and A/IT-05
+  dates: Aug 2022 - present
+  quote: >
+    During my tenure in the cloud operations group, I have had experience with technical architecture, strategic direction, production management and agile development in the roles of Senior Advisor, Acting Director and Acting Strategic Advisor
+  description: | # this will include new lines to allow paragraphs
+    When I joined Cloud Operations, I was working along side a new Operations team to prepare to engage with the Platform Engineering team to plan day-2 transition.  After integrating the development and Ops teams, I began to act as the Google Cloud (GCP) Product Owner, setting the vision, priorities and managing the backlog for the team 
+
+    In the final few months of development before ATO, I took on an acting assignment as Director of the GCP team where I helped guide the team to complete the SA&A process.
+
+    Finally, I have been acting as a Strategic Advisor in the creation of the overarching SSC Cloud Hosting solution - creating an overarching product vision for a single SSC hosting solution in response to the TBS 2024 Application Hosting Strategy.  Currently we are working towards creating and implementing a interim operating model, defining the future product direction and establishing some technical alignment between our product teams.   I have liaised with TBS OCIO and TBC Cyber, and presented numerous times to the TBS DevOps and Cloud Community of Practice (over 500 registered members) and am leading a User-Centric design workshop series with identified cloud experts in the GC. 
+- layout: left
+  company: SSC
   job_title: Senior Advisor
   dates: Aug 2021 - present
   quote: >
